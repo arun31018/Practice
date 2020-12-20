@@ -11,7 +11,7 @@ public class LoginController {
 @RequestMapping(value="/welcometogit",method = RequestMethod.GET)	
 public void m1() {
 
-	System.out.println("Hello World !!");
-	System.out.println("welcome to git hub");
+	System.out.println("hello");
+	System.out.println("hi This is java");
 }
 }
