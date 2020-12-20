@@ -9,6 +9,7 @@ public class LoginController {
 	
 @RequestMapping(value="/welcometogit",method = RequestMethod.GET)	
 public void m1() {
-	System.out.println("git practice");
+
+	System.out.println("Hello World !!");
 }
 }
